@@ -1,6 +1,6 @@
 {
-  "newest_version": '1.0',
+  "newest_version": "1.0",
   "critical": 1,
   "notes": "This update is for testing purpose only.",
-  "link": ""
+  "link": "https://github.com/rickyzhangca/test/edit/main/version.json"
 }
